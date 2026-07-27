@@ -1,8 +1,8 @@
-# 🐍 Python Security
+🐍 Python Security
 
 This repository contains small Python projects and scripts created while learning Python for cybersecurity.
 
-## Planned Projects
+Planned Projects
 
 * Log Parser
 * Hash Checker
@@ -11,6 +11,6 @@ This repository contains small Python projects and scripts created while learnin
 * Network Utilities
 * Automation Scripts
 
-## 🎯 Goal
+🎯 Goal
 
 Learn Python by building practical tools that solve real cybersecurity tasks instead of focusing only on theory.
